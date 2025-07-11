@@ -26,11 +26,11 @@
 
 2. You got to create a dev spotify account and get your client_id and client_secret (on the dashboard create an app and get your creds)
 
-3. Create a new project, enable youtube api v3 and create credentials, fill the form and then create OAuth id, then download the json
+3. Create a new project on google cloud, enable youtube api v3 and create credentials, fill the form and then create OAuth id, then download the json
 
 4. Place both last steps on a single file named secrets.json
 
-5. Publish your app on youtube, and sign in with the mail you created the project, then trust it and that's pretty much all
+5. Publish your google app on youtube, and sign in with the mail you created the project, then lick on trust it and that's pretty much all
 
 ## Features
 
