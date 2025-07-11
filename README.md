@@ -30,6 +30,8 @@
 
 4. Place both last steps on a single file named secrets.json
 
+5. Publish your app on youtube, and sign in with the mail you created the project, then trust it and that's pretty much all
+
 ## Features
 
 - Transforms spotify playlists into youtube playlists or so
